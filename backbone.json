@@ -1,0 +1,18 @@
+{
+  "app": {
+    "address": "0x78617E6f5D5B29A4E8ebf2DC6E336b9c32c0102c",
+    "@id": "",
+    "name": "backbone-pong-demo",
+    "description": "",
+    "website": "",
+    "git": "",
+    "version": "0.0.1",
+    "permissions": []
+  },
+  "settings": {
+    "encryption_key": "612878826ca276649375f6252b9dff7fb4b5eda4438f9ba56fc0cae1435a5c75",
+    "private": false,
+    "storage": "rai",
+    "forced_auth": false
+  }
+}
